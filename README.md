@@ -52,7 +52,7 @@ The notebook installs:
 - numpy==2.2.0
 - pandas==2.2.3
 - scikit-learn==1.6.0
-- matpltlib==3.9.3  (note: typo in notebook; the package name is usually `matplotlib`)
+- matpltlib==3.9.3
 - xgboost==2.1.3
 
 If you install manually, typical commands are:
