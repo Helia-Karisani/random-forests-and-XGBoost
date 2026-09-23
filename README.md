@@ -213,4 +213,3 @@ So results should be stable across runs (given the same environment).
 
 ## License
 
-Add a license if you plan to make the repo public (MIT is common).
