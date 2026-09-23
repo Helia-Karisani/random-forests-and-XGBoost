@@ -1,6 +1,6 @@
 # Random Forest vs XGBoost for California Housing Price Prediction
 
-Compare the performance of two tree-based regression models—Random Forest and XGBoost—on the California Housing dataset for predicting house prices.
+Compare the performance of two tree-based regression models, Random Forest and XGBoost, on the California Housing dataset for predicting house prices.
 
 ---
 
